@@ -1,3 +1,3 @@
-Backend infrastructure for performing CRUD operations between Node server and MongoDB
+Backend infrastructure that performs CRUD operations between Node server and MongoDB
 
 To run, `npm start`
